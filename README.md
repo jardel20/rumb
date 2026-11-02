@@ -50,6 +50,8 @@ nix run github:jardel20/rumb -- --demo    # bundled demo data
 }
 ```
 
+The module also puts rumb in the launcher, with its icon; `programs.rumb.terminal = "kitty --title rumb -e";` picks the terminal it opens in (by default the entry uses `Terminal=true`).
+
 Or without the module, as a package from the overlay (`nixpkgs.overlays = [ rumb.overlays.default ];`, then `environment.systemPackages = [ pkgs.rumb ];`), or straight from the flake (`rumb.packages.${system}.default`). With `inputs.nixpkgs.follows` the package is built with your own nixpkgs.
 
 **AppImage**
