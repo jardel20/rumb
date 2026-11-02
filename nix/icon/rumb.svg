@@ -1,10 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
-  <rect width="256" height="256" rx="56" fill="#00110b"/>
-  <path d="M22 128 Q128 34 234 128 Q128 222 22 128 Z" fill="#0b1f17" stroke="#d3d7b5" stroke-width="9" stroke-linejoin="round"/>
-  <circle cx="128" cy="128" r="50" fill="#00110b" stroke="#d3d7b5" stroke-width="7"/>
-  <circle cx="128" cy="128" r="39" fill="none" stroke="#d3d7b5" stroke-opacity=".28" stroke-width="2" stroke-dasharray="3 5"/>
-  <g fill="none" stroke-width="10" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M114 98 L145 160" stroke="#7ebae4"/>
-    <path d="M128 130 L111 160" stroke="#5277c3"/>
+  <rect width="256" height="256" rx="56" fill="#212337"/>
+  <g fill="none" stroke="#1b1b1a" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M12 128 Q128 26 244 128 Q128 240 12 128 Z" stroke-width="7"/>
+    <circle cx="128" cy="128" r="56" stroke-width="6"/>
+    <path d="M164.0 128.0L173.0 128.0M163.7 132.7L172.6 133.9M162.8 137.3L171.5 139.6M161.3 141.8L169.6 145.2M159.2 146.0L167.0 150.5M156.6 149.9L163.7 155.4M153.5 153.5L159.8 159.8M149.9 156.6L155.4 163.7M146.0 159.2L150.5 167.0M141.8 161.3L145.2 169.6M137.3 162.8L139.6 171.5M132.7 163.7L133.9 172.6M128.0 164.0L128.0 173.0M123.3 163.7L122.1 172.6M118.7 162.8L116.4 171.5M114.2 161.3L110.8 169.6M110.0 159.2L105.5 167.0M106.1 156.6L100.6 163.7M102.5 153.5L96.2 159.8M99.4 149.9L92.3 155.4M96.8 146.0L89.0 150.5M94.7 141.8L86.4 145.2M93.2 137.3L84.5 139.6M92.3 132.7L83.4 133.9M92.0 128.0L83.0 128.0M92.3 123.3L83.4 122.1M93.2 118.7L84.5 116.4M94.7 114.2L86.4 110.8M96.8 110.0L89.0 105.5M99.4 106.1L92.3 100.6M102.5 102.5L96.2 96.2M106.1 99.4L100.6 92.3M110.0 96.8L105.5 89.0M114.2 94.7L110.8 86.4M118.7 93.2L116.4 84.5M123.3 92.3L122.1 83.4M128.0 92.0L128.0 83.0M132.7 92.3L133.9 83.4M137.3 93.2L139.6 84.5M141.8 94.7L145.2 86.4M146.0 96.8L150.5 89.0M149.9 99.4L155.4 92.3M153.5 102.5L159.8 96.2M156.6 106.1L163.7 100.6M159.2 110.0L167.0 105.5M161.3 114.2L169.6 110.8M162.8 118.7L171.5 116.4M163.7 123.3L172.6 122.1" stroke-width="2.6"/>
+    <circle cx="128" cy="128" r="32" stroke-width="6"/>
+  </g>
+  <path d="M147.6 96.6L156.1 83.1" fill="none" stroke="#e4307e" stroke-width="5" stroke-linecap="round"/>
+  <g fill="none" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M115 111 L141 150" stroke="#7ebae4"/>
+    <path d="M128 130 L114 150" stroke="#5277c3"/>
   </g>
 </svg>
